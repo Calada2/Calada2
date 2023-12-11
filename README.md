@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="480" height="543.03003" viewBox="0 0 257.002 297.5" xml:space="preserve"> <foreignObject x="20" y="20" width="160" height="160"> <div id="elem" style="background: red" xmlns="http://www.w3.org/1999/xhtml"> <div style="background: blue; cursor: pointer"  id="b" xmlns="http://www.w3.org/1999/xhtml">Hello</div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis mollis mi ut ultricies. Nullam magna ipsum, porta vel dui convallis, rutrum imperdiet eros. Aliquam erat volutpat. </div> </foreignObject> </svg>'>
+<img src='https://olibo.li/test.svg'>
 
 <!--
 **Calada2/Calada2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
